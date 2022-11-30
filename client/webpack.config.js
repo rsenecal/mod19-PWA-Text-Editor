@@ -22,6 +22,24 @@ module.exports = () => {
         template: './index.html',
         title: 'Text Editor'
       }),
+
+      new GenerateSW(),
+      // new WorkboxPlugin.GenerateSW(),
+      new WebpackPwaManifest({
+        name: 'jate Manifest Example',
+        short_name: 'Manifest',
+        description: 'Jate Manifest',
+        background_color: '#7EB4E2',
+        fingerprints: false,
+        start_url: './',
+        // crossorigin: 'use-credential',
+        icons: [
+          {
+            src: path.resolve('./src/images/logo.png'),
+            sizes: [96, 128, 192, 256, 284, 512],
+          },
+        ],
+      }),
     ],
 
     module: {
