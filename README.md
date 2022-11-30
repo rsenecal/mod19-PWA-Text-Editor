@@ -71,8 +71,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
+<img width="1686" alt="Screenshot 2022-11-29 at 9 47 54 PM" src="https://user-images.githubusercontent.com/50510/204895138-48b285c3-c865-432b-95ea-aed7c57a0587.png">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
