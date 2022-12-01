@@ -71,7 +71,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+### Screen of app compilling successfully. 
+
 <img width="1686" alt="Screenshot 2022-11-29 at 9 47 54 PM" src="https://user-images.githubusercontent.com/50510/204895138-48b285c3-c865-432b-95ea-aed7c57a0587.png">
+
+### Image of app running on Heroku.
+<img width="1295" alt="Screenshot 2022-11-30 at 7 04 08 PM" src="https://user-images.githubusercontent.com/50510/204934944-c9fe0447-95d5-4949-a2bb-34490b84743d.png">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
